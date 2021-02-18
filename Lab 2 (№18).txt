@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab 2</title>
+  </head>
+  <body>
+        <p><a name="top"></a></p>
+        <p><a href="#cat">Кот</a></p>
+        <p><a href="#dog">Собака</a></p>
+        <p><a href="#horse">Лошадь</a></p>
+        <p><a href="#rabbit">Кролик</a></p>
+        <p><a href="#bear">Медведь</a></p>
+        <p><a href="#fox">Лисица</a></p>
+        <p><a href="#tiger">Тигр</a></p>
+        <p><a href="#lion">Лев</a></p>
+        <p><a href="#monkey">Обезьяна</a></p>
+        <p><a href="#wolf">Волк</a></p>
+        
+        <p><a name="cat">Кот</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BA%D0%B0" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg" alt="Кот" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Домашнее животное, одно из наиболее популярных (наряду с собакой) «животных-компаньонов». С точки зрения научной систематики, домашняя кошка — млекопитающее семейства кошачьих отряда хищных. Ранее домашнюю кошку нередко рассматривали как отдельный биологический вид. С точки зрения современной биологической систематики домашняя кошка является подвидом лесной кошки.
+        </p>
+
+        <p><a name="dog">Собака</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0" target="_blank">
+        <img src="https://petsi.net/images/dogbreed/borzoi.jpg" alt="Собака" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Домашнее животное, одно из наиболее популярных (наряду с кошкой) животных-компаньонов. Первоначально домашняя собака была выделена в отдельный биологический вид (лат. Canis familiaris) Линнеем в 1758 году, в 1993 году реклассифицирована Смитсоновским институтом и Американской ассоциацией териологов в подвид волка.
+        </p>
+
+        <p><a name="horse">Лошадь</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D0%B8" target="_blank">
+        <img src="https://m.dw.com/image/15840085_401.jpg" alt="Лошадь" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Единственный современный род семейства лошадиных (Equidae) отряда непарнокопытных. На основании присутствия мозолистых шишек («каштанов») на обеих парах ног или лишь на передней, степени развития волос на хвосте и окраски, немногочисленные виды лошади делят на два или три подрода.
+        </p>
+
+        <p><a name="rabbit">Кролик</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%B0.jpg/274px-%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%B0.jpg " alt="Кролик " width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Общее название нескольких родов млекопитающих из семейства зайцевых (в том числе и домашних кроликов). Кролики отличаются от зайцев альтрициальностью — их детёныши рождаются слепыми, лишёнными мехового покрова, растут в норах. 
+        </p>
+
+        <p><a name="bear">Медведь</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B8" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Medved_mzoo.jpg/275px-Medved_mzoo.jpg " alt="Медведь " width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Согласно палеонтологическим сведениям, род медведей появился 5—6 миллионов лет назад. Первым его представителем в настоящее время считают медведя Ursus minimus — относительно небольшое животное, чьи ископаемые остатки найдены на территории Франции. Все современные четыре вида рода, а также ряд вымерших (таких, например, как пещерный медведь Ursus spelaeus) происходят от этрусского медведя (Ursus etruscus), жившего 1—2 миллиона лет назад.
+        </p>
+
+        <p><a name="fox">Лисица</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%B0" target="_blank">
+        <img src="https://static.wikia.nocookie.net/lisenot/images/c/c7/%D0%9B%D0%B8%D1%81%D0%B0.jpeg/revision/latest/scale-to-width-down/340?cb=20150511102006&path-prefix=ru " alt="Лисица " width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Общее название нескольких видов млекопитающих семейства псовые. Только 10 видов этой группы относят к роду собственно лисиц (лат. Vulpes). Наиболее известный и распространённый представитель — обыкновенная лисица (Vulpes vulpes). Лисицы встречаются в фольклоре многих народов по всему миру.
+        </p>
+
+        <p><a name="tiger">Тигр</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B3%D1%80" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siberischer_tiger_de_edit02.jpg/280px-Siberischer_tiger_de_edit02.jpg" alt="Тигр" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Вид хищных млекопитающих семейства кошачьих, один из пяти представителей рода пантера (лат. Panthera), который относится к подсемейству больших кошек.
+        </p>
+
+        <p><a name="lion">Лев</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lion_d%27Afrique.jpg/220px-Lion_d%27Afrique.jpg" alt="Лев " width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Вид хищных млекопитающих, один из пяти представителей рода пантер (Panthera), относящегося к подсемейству больших кошек (Pantherinae) в составе семейства кошачьих (Felidae). Наряду с тигром — самая крупная из ныне живущих кошек, масса некоторых самцов может достигать 250 кг. Трудно сказать достоверно, массивнее ли крупнейшие подвиды льва, чем крупнейшие подвиды тигров. Связано это с тем, что исторические очень крупные веса амурских тигров в большинстве своём признаны недостаточно достоверными.
+        </p>
+
+        <p><a name="monkey">Обезьяна</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Weisshandgibbon_tierpark_berlin.jpg" alt="Обезьяна " width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Подотряд млекопитающих из отряда приматов.
+        Обезьяны отличаются по ряду признаков от другого подотряда приматов — полуобезьян. У гаплориновых приматов сухой нос и менее развитое чувство обоняния. Среди обезьян преобладают виды, рождающие одного детёныша. В целом, этот подотряд считается более развитым в эволюционном отношении.
+        </p>
+
+        <p><a name="Wolf">Волк</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BA" target="_blank">
+        <img src="https://static.mk.ru/upload/entities/2021/01/16/04/articles/detailPicture/8d/60/8c/8e/c838acab74ed95774f9ddc4264682c53.jpg" alt="Волк" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Вид хищных млекопитающих из семейства псовых (Canidae). Наряду с койотом (Canis latrans), обыкновенным шакалом (Canis aureus) и ещё несколькими видами составляет род волков (Canis). Кроме того, как показывают результаты изучения последовательности ДНК и дрейфа генов, является прямым предком домашней собаки, которая обычно рассматривается как подвид волка (Canis lupus familiaris). Волк — одно из самых крупных современных животных в своём семействе: длина его тела (без учёта хвоста) может достигать 160 см, длина хвоста — до 52 см, высота в холке — до 90 см; масса тела может доходить до 90—102 кг.
+        </p>
+
+        <h4><a href="#top">Наверх</a></h4>
+  </body>
+</html>
