@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег table</title>
+  <link href="style/<tstyle03>" rel="stylesheet">
+ </head>
+ <body>
+  <table border="1">
+   <tr>
+    <th></th>
+    <th>Варенье клубничное</th>
+    <th>Варенье абрикосовое</th>
+    <th>Варенье малиновое</th>
+   </tr>
+    <tr>
+    <th>Сумма закупки материалов</th>
+    <th>Ячейка 2</th>
+    <th>Ячейка 3</th>
+    <th>Ячейка 4</th>
+   </tr>
+    <tr>
+    <th>Сумма заработной платы на выпуск</th>
+    <th>Ячейка 2</th>
+    <th>Ячейка 3</th>
+    <th>Ячейка 4</th>
+   </tr>
+    <tr>
+    <th>Сумма продажи</th>
+    <th>Ячейка 2</th>
+    <th>Ячейка 3</th>
+    <th>Ячейка 4</th>
+   </tr>
+    <tr>
+    <th>Сумма прибыли</th>
+    <th>Ячейка 2</th>
+    <th>Ячейка 3</th>
+    <th>Ячейка 4</th>
+   </tr>
+    <tr>
+    <th>Процент наценки</th>
+    <th>Ячейка 2</th>
+    <th>Ячейка 3</th>
+    <th>Ячейка 4</th>
+   </tr>
+ </table>
+ </body>
+</html>
